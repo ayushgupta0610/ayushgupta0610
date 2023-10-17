@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Ayush Gupta
-- 🎮 I’m currently a part of IndiGG tech team, India's biggest gaming DAO with a mission to onboard 500m+ gamers from Indian subcontinent
+- 👋 Hi, I’m Ayush Gupta, based out of Bengaluru, India
+- 🎮 I’m currently learning smart contract auditing and was previously founding blockchain developer of the IndiGG's tech team, one of the biggest gaming DAO
 - 👨🏻‍💻 I’m learning to build scalable products in the web3 space 
-- 🙇🏻‍♂️ I’m looking to collaborate on smart contracts/web3 development
+- 🙇🏻‍♂️ I’m looking to collaborate on smart contracts auditing projects
 - 📫 Reach me on twitter at ayushgupta0610
 
 <!---
