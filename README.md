@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Ayush Gupta, based out of Bengaluru, India
 - 🎮 Ex founding web3 developer at IndiGG, now KGeN, one of the biggest gaming DAO
-- 👨🏻‍💻 I’m currently learning smart contract auditing
-- 🙇🏻‍♂️ I’m looking to collaborate on smart contracts auditing and dev projects
+- 👨🏻‍💻 I’m currently gaining defi expertise
+- 🙇🏻‍♂️ I’m looking to work with defi projects
 - 📫 Reach me on twitter at ayushgupta0610
 
 <!---
