@@ -1,6 +1,6 @@
 - 👋 Hi, I'm Ayush Gupta — Applied AI Engineer based in Bengaluru, India
 - 🤖 I build **LLM-powered systems**: agents, RAG pipelines, and the evals that keep them honest
-- 🛠️ Working with [Python, LangGraph/LlamaIndex, vector DBs, FastAPI, Claude/OpenAI APIs — trim to what you actually use]
+- 🛠️ Working with Python, LangGraph/LlamaIndex, vector DBs, FastAPI, Claude/OpenAI APIs
 - 🔗 Previously founding web3 engineer at IndiGG (now KGeN). Shipped smart contracts where correctness was non-negotiable. That bar carries over to production AI.
 - 💬 Open to Applied AI / AI Engineer roles
 - 🐦 Reach me on X at [@ayushgupta0610](https://x.com/ayushgupta0610)
